@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications and reports
-description: #
+description: Publications
 years: [2018, 2017, 2016]
 ---
 
